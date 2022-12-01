@@ -1,4 +1,4 @@
 job1:
   script:
-    - curl -k -X POST -d'{"action":"refresh_from_source"}' https://admin:pfe2022*@41.225.24.153:11443/api/automate_domains/automate
+    - curl -k -X POST -d'{"action":"refresh_from_source"}' https://git:pfe2022*@41.225.24.153:11443/api/automate_domains/automate
 
